@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ORABI2
+- 👋 Hi, I’m Khaled Orabi
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python, SQL, Power Bi, Tableau, R
 - 📫 How to reach me Orabikhaled880@gmail.com 
